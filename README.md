@@ -8,7 +8,6 @@ see releases:
 - kdfu mode required, jailbreak device and enter kdfu mode thru kdfuapp
 - use ipsw file in releases to restore
 
-important note: 3utools is suspicious software and should only be run in a VM.
-
+take note: be sure to run 3utools through a VM... it has a suspicious history within the jailbreaking community and has been widely speculated to be spyware.
 
 https://www.youtube.com/watch?v=qWtzayA4wQI
