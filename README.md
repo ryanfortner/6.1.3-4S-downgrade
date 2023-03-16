@@ -9,3 +9,6 @@ see releases:
 - use ipsw file in releases to restore
 
 important note: 3utools is suspicious software and should only be run in a VM.
+
+
+https://www.youtube.com/watch?v=qWtzayA4wQI
